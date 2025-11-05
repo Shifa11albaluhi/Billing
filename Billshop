@@ -1,0 +1,4 @@
+read item;
+enter three item;
+bill=item 1+ item2 +item3;
+print bill 
